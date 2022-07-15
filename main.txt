@@ -2,5 +2,5 @@ some code
 some code
 
 some feature 
-some feature with bug
+some feature FIXED BUG
 some feature
